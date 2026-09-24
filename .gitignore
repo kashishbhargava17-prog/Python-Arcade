@@ -1,0 +1,4 @@
+player_accounts.txt
+game_statistics.txt
+__pycache__/
+*.pyc
